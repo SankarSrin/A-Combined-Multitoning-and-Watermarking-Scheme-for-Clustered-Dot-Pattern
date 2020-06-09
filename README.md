@@ -11,7 +11,16 @@ Image Database.zip contains two folders
 2) 2-Tone Watermark Image: Contains 10 binary image 
  
 
-#Binary Watermark embedding in 3-tone (multitone) image
+# Binary Watermark embedding in 3-tone (multitone) image
+
+## Original host image
+
+<img src="2-Tone/1 (94).JPEG" class="img-responsive" alt=""> </div>
+
+## Watermarked Image
+
+
+
 
 
  
