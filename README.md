@@ -21,7 +21,7 @@ Image Database.zip contains two folders
 <img src="Watermarked Image.png" class="img-responsive" alt="" width="256" height="256"> </div>
 
 ## Output Figure
-<img src="WM.png" class="img-responsive" alt="" width="256" height="800"> </div>
+<img src="WM.PNG" class="img-responsive" alt="" width="256" height="800"> </div>
 
 
 
