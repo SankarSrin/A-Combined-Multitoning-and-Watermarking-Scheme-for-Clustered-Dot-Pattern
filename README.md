@@ -12,6 +12,9 @@ Image Database.zip contains two folders
  
 
 # Binary Watermark embedding in 3-tone (multitone) image
+To execute the code 
+
+Run 2-Tone/test.m file.. 
 
 ## Original Image
 
@@ -22,6 +25,16 @@ Image Database.zip contains two folders
 
 ## Output Figure
 <img src="2-Tone/WM.jpg" class="img-responsive" alt="" width="700" height="256"> </div>
+
+
+# 8-Tone Watermark embedding in 3-tone (multitone) image
+
+## Watermarked Multitone Image
+<img src="8-Tone/3WM8T.png" class="img-responsive" alt="" width="700" height="256"> </div>
+
+
+## Output Figure
+<img src="8-Tone/WM.jpg" class="img-responsive" alt="" width="700" height="256"> </div>
 
 
 
