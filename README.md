@@ -28,6 +28,9 @@ Run 2-Tone/test.m file..
 
 
 # 8-Tone Watermark embedding in 3-tone (multitone) image
+To execute the code 
+
+Run 8-Tone/test.m file.. 
 
 ## Watermarked Multitone Image
 <img src="8-Tone/3WM8T.png" class="img-responsive" alt="" width="256" height="256"> </div>
