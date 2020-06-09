@@ -18,10 +18,10 @@ Image Database.zip contains two folders
 <img src="2-Tone/1 (94).JPEG" class="img-responsive" alt="" width="256" height="256"> </div>
 
 ## Watermarked Image
-<img src="Watermarked Image.jpg" class="img-responsive" alt="" width="256" height="256"> </div>
+<img src="2-Tone/Watermarked Image.jpg" class="img-responsive" alt="" width="256" height="256"> </div>
 
 ## Output Figure
-<img src="WM.jpg" class="img-responsive" alt="" width="256" height="800"> </div>
+<img src="2-Tone/WM.jpg" class="img-responsive" alt="" width="256" height="800"> </div>
 
 
 
