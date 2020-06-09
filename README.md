@@ -10,6 +10,10 @@ Image Database.zip contains two folders
 1) TEST Images: Contains 100 images of size 1024x1024
 2) 2-Tone Watermark Image: Contains 10 binary image 
  
+
+#Binary Watermark embedding in 3-tone (multitone) image
+
+
  
  
  
