@@ -15,7 +15,7 @@ Image Database.zip contains two folders
 
 ## Original host image
 
-<img src="2-Tone/1 (94).JPEG" class="img-responsive" alt=""> </div>
+<img src="2-Tone/1 (94).JPEG" class="img-responsive" alt="" width="256" height="256"> </div>
 
 ## Watermarked Image
 
