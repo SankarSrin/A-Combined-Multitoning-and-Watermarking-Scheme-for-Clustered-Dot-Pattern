@@ -33,7 +33,7 @@ To execute the code
 Run 8-Tone/test.m file.. 
 
 ## Original Image
-<img src="2-Tone/1 (96).JPEG" class="img-responsive" alt="" width="256" height="256"> </div>
+<img src="8-Tone/1 (96).JPEG" class="img-responsive" alt="" width="256" height="256"> </div>
 
 
 ## Multitone Image and Watermarked Multitone Image
