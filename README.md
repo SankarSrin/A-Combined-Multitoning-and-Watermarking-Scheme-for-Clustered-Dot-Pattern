@@ -20,8 +20,8 @@ Run 2-Tone/test.m file..
 
 <img src="2-Tone/1 (94).JPEG" class="img-responsive" alt="" width="256" height="256"> </div>
 
-## Watermarked Multitone Image
-<img src="2-Tone/Watermarked Image.jpg" class="img-responsive" alt="" width="256" height="256"> </div>
+## Multitone Image and Watermarked Multitone Image
+<img src="2-Tone/Watermarked Image.png" class="img-responsive" alt="" width="256" height="256"> </div> <img src="2-Tone/Multitone Image.png" class="img-responsive" alt="" width="256" height="256"> </div> 
 
 ## Output Figure
 <img src="2-Tone/WM.jpg" class="img-responsive" alt="" width="700" height="256"> </div>
