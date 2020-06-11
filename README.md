@@ -9,6 +9,10 @@ Image Database.zip contains two folders
 
 1) TEST Images: Contains 100 images of size 1024x1024
 2) 2-Tone Watermark Image: Contains 10 binary image 
+
+## NOTE
+
+The paper is still in review. After the publication, the code for intertone shifting and a decoding strategy using stochastic statistics will be uploaded. 
  
 
 # Binary Watermark embedding in 3-tone (multitone) image
