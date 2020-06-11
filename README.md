@@ -24,7 +24,7 @@ Run 2-Tone/test.m file..
 <img src="2-Tone/Watermarked Image.png" class="img-responsive" alt="" width="256" height="256"> </div> <img src="2-Tone/Multitone Image.png" class="img-responsive" alt="" width="256" height="256"> </div> 
 
 ## Program Output 
-<img src="2-Tone/WM.jpg" class="img-responsive" alt="" width="500" height="256"> </div>
+<img src="2-Tone/WM.jpg" class="img-responsive" alt="" width="700" height="200"> </div>
 
 
 # 8-Tone Watermark embedding in 3-tone (multitone) image
@@ -32,12 +32,14 @@ To execute the code
 
 Run 8-Tone/test.m file.. 
 
-## Watermarked Multitone Image
-<img src="8-Tone/3WM8T.png" class="img-responsive" alt="" width="256" height="256"> </div>
+## Original Image
+
+## Multitone Image and Watermarked Multitone Image
+<img src="8-Tone/3T.png" class="img-responsive" alt="" width="256" height="256"> </div> <img src="8-Tone/3WM8T.png" class="img-responsive" alt="" width="256" height="256"> </div>
 
 
-## Output Figure
-<img src="8-Tone/WM.jpg" class="img-responsive" alt="" width="700" height="256"> </div>
+## Program Output
+<img src="8-Tone/WM.jpg" class="img-responsive" alt="" width="700" height="200"> </div>
 
 
 
