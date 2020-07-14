@@ -1,4 +1,7 @@
+# Hybrid Multitoning and Watermarking for Clustered-Dot Dithering 
+or
 # A-Combined-Multitoning-and-Watermarking-Scheme-for-Clustered-Dot-Pattern
+
 
 
 The page provides the code to perform joint multitoning and watermarking for Clustered Dot Multitone Images
