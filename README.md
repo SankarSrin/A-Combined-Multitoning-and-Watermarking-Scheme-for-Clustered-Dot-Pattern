@@ -14,8 +14,10 @@ The details of the page are as follows:
 2) 2-Tone Watermark Image: Contains 10 binary image 
 
 * 2-Tone
+**Source Code to perform 2-Tone Watermark in 3-Tone Multitone Image**
 
 * 8-Tone
+**Source Code to perform 8-Tone Watermark in 3-Tone Multitone Image**
 
 ## NOTE
 
